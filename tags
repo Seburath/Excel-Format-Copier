@@ -5,9 +5,9 @@
 !_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
 !_TAG_PROGRAM_URL	https://ctags.io/	/official site/
 !_TAG_PROGRAM_VERSION	0.0.0	/45968eff/
-cargar_atributos	script.py	/^def cargar_atributos(x, y):$/;"	f
-copiar_rango	script.py	/^def copiar_rango(hoja, inicio_x, final_x, inicio_y, final_y, destino_x, destino_y):$/;"	f
+cargar_atributos	excel-format-copier.py	/^def cargar_atributos(x, y):$/;"	f
+copiar_rango	excel-format-copier.py	/^def copiar_rango(hoja, inicio_x, final_x, inicio_y, final_y, destino_x, destino_y):$/;"	f
 file	pdf-excel.py	/^file = open('china.pdf', 'rb')$/;"	v
 filereader	pdf-excel.py	/^filereader = PyPDF2.PdfFileReader(file)$/;"	v
-formato	script.py	/^formato = load_workbook(filename = 'formato_entrada.xlsx')$/;"	v
-resumen	script.py	/^resumen = formato["Resumen"]$/;"	v
+formato	excel-format-copier.py	/^formato = load_workbook(filename = 'formato_entrada.xlsx')$/;"	v
+resumen	excel-format-copier.py	/^resumen = formato["Resumen"]$/;"	v
